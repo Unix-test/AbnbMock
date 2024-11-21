@@ -1,0 +1,6 @@
+@AbnbMock_HostAddress = http://localhost:5078
+
+GET {{AbnbMock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

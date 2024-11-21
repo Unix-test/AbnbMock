@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Single",
+    "description": "A single room with one bed, ideal for solo travelers.",
+    "capacity": 1,
+    "isActive": true,
+    "prices": {
+      "perNight": 50,
+      "perAdult": 20,
+      "perChild": 10,
+      "perPet": 5
+    }
+  },
+  {
+    "name": "Double",
+    "description": "A cozy room with one double bed, perfect for couples.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 100,
+      "perAdult": 35,
+      "perChild": 15,
+      "perPet": 10
+    }
+  },
+  {
+    "name": "Twin",
+    "description": "A room with two single beds, great for friends or family.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 90,
+      "perAdult": 30,
+      "perChild": 15,
+      "perPet": 8
+    }
+  },
+  {
+    "name": "Deluxe",
+    "description": "A spacious room with a king-size bed and luxurious amenities.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 150,
+      "perAdult": 50,
+      "perChild": 20,
+      "perPet": 15
+    }
+  },
+  {
+    "name": "Suite",
+    "description": "A premium suite with separate living and bedroom areas.",
+    "capacity": 4,
+    "isActive": true,
+    "prices": {
+      "perNight": 200,
+      "perAdult": 60,
+      "perChild": 25,
+      "perPet": 20
+    }
+  },
+  {
+    "name": "Family",
+    "description": "A large room with multiple beds, suitable for families.",
+    "capacity": 5,
+    "isActive": true,
+    "prices": {
+      "perNight": 180,
+      "perAdult": 50,
+      "perChild": 20,
+      "perPet": 10
+    }
+  },
+  {
+    "name": "Penthouse",
+    "description": "An exclusive penthouse suite with premium views and amenities.",
+    "capacity": 4,
+    "isActive": false,
+    "prices": {
+      "perNight": 300,
+      "perAdult": 100,
+      "perChild": 40,
+      "perPet": 25
+    }
+  },
+  {
+    "name": "Budget Single",
+    "description": "A compact room with basic amenities for budget-conscious travelers.",
+    "capacity": 1,
+    "isActive": true,
+    "prices": {
+      "perNight": 40,
+      "perAdult": 15,
+      "perChild": 5,
+      "perPet": 3
+    }
+  },
+  {
+    "name": "Budget Double",
+    "description": "A simple double room with essential facilities.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 80,
+      "perAdult": 30,
+      "perChild": 10,
+      "perPet": 5
+    }
+  },
+  {
+    "name": "Executive",
+    "description": "A high-end room designed for business travelers.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 160,
+      "perAdult": 55,
+      "perChild": 15,
+      "perPet": 10
+    }
+  },
+  {
+    "name": "Presidential Suite",
+    "description": "A luxurious suite with premium facilities and exceptional service.",
+    "capacity": 6,
+    "isActive": true,
+    "prices": {
+      "perNight": 500,
+      "perAdult": 120,
+      "perChild": 50,
+      "perPet": 30
+    }
+  },
+  {
+    "name": "Honeymoon Suite",
+    "description": "A romantic suite with special amenities for newlyweds.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 220,
+      "perAdult": 70,
+      "perChild": 30,
+      "perPet": 15
+    }
+  },
+  {
+    "name": "Cabana",
+    "description": "A private outdoor room with direct pool access.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 120,
+      "perAdult": 40,
+      "perChild": 15,
+      "perPet": 10
+    }
+  },
+  {
+    "name": "Villa",
+    "description": "A standalone villa with multiple rooms and private facilities.",
+    "capacity": 6,
+    "isActive": true,
+    "prices": {
+      "perNight": 400,
+      "perAdult": 110,
+      "perChild": 50,
+      "perPet": 25
+    }
+  },
+  {
+    "name": "Dormitory",
+    "description": "A shared dorm-style room with bunk beds for backpackers.",
+    "capacity": 8,
+    "isActive": true,
+    "prices": {
+      "perNight": 30,
+      "perAdult": 10,
+      "perChild": 5,
+      "perPet": 2
+    }
+  },
+  {
+    "name": "Eco Room",
+    "description": "An environmentally-friendly room with sustainable features.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 100,
+      "perAdult": 35,
+      "perChild": 15,
+      "perPet": 10
+    }
+  },
+  {
+    "name": "Accessible Room",
+    "description": "A room designed with accessibility features for differently-abled guests.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 110,
+      "perAdult": 40,
+      "perChild": 20,
+      "perPet": 8
+    }
+  },
+  {
+    "name": "Studio",
+    "description": "A studio-style room with a kitchenette.",
+    "capacity": 2,
+    "isActive": true,
+    "prices": {
+      "perNight": 130,
+      "perAdult": 50,
+      "perChild": 20,
+      "perPet": 10
+    }
+  },
+  {
+    "name": "Loft",
+    "description": "A stylish loft space with modern decor and open layout.",
+    "capacity": 4,
+    "isActive": true,
+    "prices": {
+      "perNight": 180,
+      "perAdult": 55,
+      "perChild": 25,
+      "perPet": 15
+    }
+  },
+  {
+    "name": "Bungalow",
+    "description": "A standalone bungalow with garden views.",
+    "capacity": 4,
+    "isActive": true,
+    "prices": {
+      "perNight": 170,
+      "perAdult": 50,
+      "perChild": 20,
+      "perPet": 12
+    }
+  }
+]
